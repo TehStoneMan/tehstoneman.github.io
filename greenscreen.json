@@ -1,0 +1,31 @@
+{
+	"homepage": "http://minecraft.curseforge.com/projects/greenscreen",
+	"promos":
+	{
+		"1.7.10-latest": "1.2",
+		"1.7.10-recomended": "1.2",
+		"1.8.9-latest": "1.4",
+		"1.8.9-recomended": "1.4",
+		"1.9-latest": "1.5",
+		"1.9-recomended": "1.5"
+		"1.10.2-latest": "2.0",
+		"1.10.2-recomended": "2.0"
+	},
+	"1.7.10":
+	{
+		"1.0": "Initial release",
+		"1.2": ""
+	},
+	"1.8.9":
+	{
+		"1.4": "Updated to MC 1.8.9"
+	},
+	"1.9":
+	{
+		"1.5": "Updated to MC 1.9"
+	},
+	"1.10.2":
+	{
+		"2.0": "WIP"
+	)
+)
