@@ -1,13 +1,13 @@
 {
-	"homepage": "http://minecraft.curseforge.com/projects/cashcraft",
+	"homepage": "https://mods.curse.com/mc-mods/minecraft/238981-cash-craft",
 	"promos":
 	{
-		"1.10.2-latest"    : "mc1.10.2-2.0.0.0",
-		"1.10.2-recomended": "mc1.10.2-2.0.0.0"
+		"1.10.2-latest"    : "mc1.10.2-3.0.0.0",
+		"1.10.2-recomended": "mc1.10.2-3.0.0.0"
 	},
 
 	"1.10.2":
 	{
-		"mc1.10.2-2.0.0.0": "WIP"
+		"mc1.10.2-3.0.0.0": "Updated to 1.10.2"
 	)
 )
