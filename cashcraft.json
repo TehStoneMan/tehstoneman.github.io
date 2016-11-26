@@ -2,13 +2,14 @@
 	"homepage": "https://mods.curse.com/mc-mods/minecraft/238981-cash-craft",
 	"promos":
 	{
-		"1.10.2-latest"    : "mc1.10.2-3.0.0.1",
-		"1.10.2-recomended": "mc1.10.2-3.0.0.1"
+		"1.10.2-latest"    : "mc1.10.2-3.0.2.0",
+		"1.10.2-recomended": "mc1.10.2-3.0.2.0"
 	},
 
 	"1.10.2":
 	{
-		"mc1.10.2-3.0.0.1": "Fixed a server error"
+		"mc1.10.2-3.0.2.0": "Added mob drops option\nAdded money pouch",
+		"mc1.10.2-3.0.0.1": "Fixed a server error",
 		"mc1.10.2-3.0.0.0": "Updated to 1.10.2"
 	)
 )
