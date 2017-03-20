@@ -1,0 +1,13 @@
+{
+	"homepage": "",
+	"promos":
+	{
+		"1.10.2-latest"    : "mc1.10.2-1.0.0.0-beta0",
+		"1.10.2-recomended": "mc1.10.2-1.0.0.0-beta0"
+	},
+
+	"1.10.2":
+	{
+		"mc1.10.2-1.0.0.0-beta0": "Initial 1.10.2 beta release"
+	)
+)
