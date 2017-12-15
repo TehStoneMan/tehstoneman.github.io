@@ -4,14 +4,15 @@
 	{
 		"1.11.2-latest"    : "mc1.11.2-2.0.0.0",
 		"1.11.2-recomended": "mc1.11.2-2.0.0.0"
-		"1.10.2-latest"    : "mc1.10.2-1.0.0.0",
-		"1.10.2-recomended": "mc1.10.2-1.0.0.0"
+		"1.10.2-latest"    : "mc1.10.2-1.0.0.1",
+		"1.10.2-recomended": "mc1.10.2-1.0.0.1"
 	},
 	"1.10.2":
 	{
 		"mc1.10.2-1.0.0.0-beta0": "Initial 1.10.2 beta release",
 		"mc1.10.2-1.0.0.0-beta1": "Reinforced chests and lockers\nLocks and keys",
-		"mc1.10.2-1.0.0.0": "First release"
+		"mc1.10.2-1.0.0.0": "First release",
+		"mc1.10.2-1.0.0.1": "Fix crash with disabled items"
 	}
 }	"1.11.2":
 	{
