@@ -2,6 +2,8 @@
 	"homepage": "",
 	"promos":
 	{
+		"1.12.2-latest"    : "mc1.12.2-3.0.0.1",
+		"1.12.2-recomended": "mc1.12.2-3.0.0.1"
 		"1.11.2-latest"    : "mc1.11.2-2.0.0.0",
 		"1.11.2-recomended": "mc1.11.2-2.0.0.0"
 		"1.10.2-latest"    : "mc1.10.2-1.0.0.2",
@@ -14,9 +16,14 @@
 		"mc1.10.2-1.0.0.0": "First release",
 		"mc1.10.2-1.0.0.1": "Fix crash with disabled items"
 		"mc1.10.2-1.0.0.2": "Fix crash with breaking chest on server"
-	}
-}	"1.11.2":
+	},
+	"1.11.2":
 	{
 		"mc1.11.2-2.0.0.0": "Update for 1.11.2"
+	},
+	"1.12.2":
+	{
+		"mc1.12.2-3.0.0.0": "Update for 1.12.2",
+		"mc1.12.2-3.0.0.1": "Fixed inventory interactions"
 	}
 }

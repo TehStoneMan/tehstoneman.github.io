@@ -3,7 +3,9 @@
 	"promos":
 	{
 		"1.10.2-latest"    : "mc1.10.2-3.0.2.0",
-		"1.10.2-recomended": "mc1.10.2-3.0.2.0"
+		"1.10.2-recomended": "mc1.10.2-3.0.2.0",
+		"1.12.2-latest"    : "1.12.2-3.0.0.0",
+		"1.12.2-recomended": "1.12.2-3.0.0.0"
 	},
 
 	"1.10.2":
@@ -11,5 +13,9 @@
 		"mc1.10.2-3.0.2.0": "Added mob drops option\nAdded money pouch",
 		"mc1.10.2-3.0.0.1": "Fixed a server error",
 		"mc1.10.2-3.0.0.0": "Updated to 1.10.2"
+	),
+	"1.12.2":
+	{
+		"1.12.2-3.0.0.0": "Updated to Minecraft 1.12.2"
 	)
 )
