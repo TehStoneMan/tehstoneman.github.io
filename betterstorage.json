@@ -31,9 +31,9 @@
 	},
 	"1.14.3":
 	{
-		"1.14.2-4.0.0.0-alpha1": "First alpha release for MC 1.4.3\nNot all features are implemented"
-		"1.14.2-4.0.0.0-alpha2": "Development"
-		"1.14.2-4.0.0.0-alpha3": "Bug fixes"
+		"1.14.2-4.0.0.0-alpha1": "First alpha release for MC 1.4.3\nNot all features are implemented",
+		"1.14.2-4.0.0.0-alpha2": "Development",
+		"1.14.2-4.0.0.0-alpha3": "Bug fixes",
 		"1.14.2-4.0.0.0-beta1": "Crates now working"
 	}
 }
