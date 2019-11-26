@@ -2,8 +2,8 @@
 	"homepage": "",
 	"promos":
 	{
-		"1.14.4-latest"    : "1.14.4-4.0.0.0",
-		"1.14.4-recomended": "1.14.4-4.0.0.0",
+		"1.14.4-latest"    : "1.14.4-4.0.0.1",
+		"1.14.4-recomended": "1.14.4-4.0.0.1",
 		"1.12.2-latest"    : "mc1.12.2-3.0.0.1",
 		"1.12.2-recomended": "mc1.12.2-3.0.0.1",
 		"1.11.2-latest"    : "mc1.11.2-2.0.0.0",
@@ -36,6 +36,7 @@
 		"1.14.4-4.0.0.0-alpha3": "Bug fixes",
 		"1.14.4-4.0.0.0-beta1": "Crates now working",
 		"1.14.4-4.0.0.0-beta2": "Locks and keys",
-		"1.14.4-4.0.0.0": "Full release for 1.14.4"
+		"1.14.4-4.0.0.0": "Full release for 1.14.4",
+		"1.14.4-4.0.0.1": "Fix for server errors"
 	}
 }
