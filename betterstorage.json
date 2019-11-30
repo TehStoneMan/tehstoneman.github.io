@@ -1,5 +1,5 @@
 {
-	"homepage": "",
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/better-storage-too",
 	"promos":
 	{
 		"1.14.4-latest"    : "1.14.4-4.0.0.2",
@@ -38,6 +38,6 @@
 		"1.14.4-4.0.0.0-beta2": "Locks and keys",
 		"1.14.4-4.0.0.0": "Full release for 1.14.4",
 		"1.14.4-4.0.0.1": "Fix for server with opening keyings\n[Temporary] Removed some recipes related to errors on joining multiplayer servers",
-		"1.14.4-4.0.0.2": "Fixed versions of recipes that were previously causing errors on joining multiplayer servers\nFixed tooltip error when looking at cardboard box item with no inventory",
+		"1.14.4-4.0.0.2": "Fixed versions of recipes that were previously causing errors on joining multiplayer servers\nFixed tooltip error when looking at cardboard box item with no inventory"
 	}
 }
