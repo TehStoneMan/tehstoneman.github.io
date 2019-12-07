@@ -2,19 +2,38 @@
 	"homepage": "https://mods.curse.com/mc-mods/minecraft/238981-cash-craft",
 	"promos":
 	{
+		"1.7.10-latest"    : "[1.7.10]-1.0",
+		"1.7.10-recomended": "[1.7.10]-1.0",
+		"1.8.9-latest"     : "mc1.8.9-2.0.0",
+		"1.8.9-recomended" : "mc1.8.9-2.0.0",
 		"1.10.2-latest"    : "mc1.10.2-3.0.2.0",
 		"1.10.2-recomended": "mc1.10.2-3.0.2.0",
-		"1.12.2-latest"    : "1.12.2-3.0.0.0",
-		"1.12.2-recomended": "1.12.2-3.0.0.0"
+		"1.12.2-latest"    : "1.12.2-4.0.0.1",
+		"1.12.2-recomended": "1.12.2-4.0.0.1",
+		"1.14.4-latest"    : "1.14.4-5.0.0.0",
+		"1.14.4-recomended": "1.14.4-5.0.0.0"
+	},
+	"1.7.10":
+	{
+		"[1.7.10]-1.0": "Initial release"
+	},
+	"1.8.9":
+	{
+		"mc1.8.9-2.0.0": "Updated to Minecraft 1.8.9\nAdded basic API"
 	},
 	"1.10.2":
 	{
 		"mc1.10.2-3.0.2.0": "Added mob drops option\nAdded money pouch",
 		"mc1.10.2-3.0.0.1": "Fixed a server error",
 		"mc1.10.2-3.0.0.0": "Updated to 1.10.2"
-	),
+	},
 	"1.12.2":
 	{
-		"1.12.2-3.0.0.0": "Updated to Minecraft 1.12.2"
-	)
-)
+		"1.12.2-4.0.0.1": "Fix for server side crash",
+		"1.12.2-3.0.0.0": "[Actually 4.0.0.0]\nUpdated to Minecraft 1.12.2"
+	},
+	"1.14.4":
+	{
+		"1.14.4-5.0.0.0": "Updated to Minecraft 1.14.4"
+	}
+}

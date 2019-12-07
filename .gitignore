@@ -1,0 +1,54 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# =========================
+# Eclipse workspace files
+# =========================
+
+*.bak
+*.pydevproject
+*.swp
+*.tmp
+*~.nib
+.gradle
+.loadpath
+.metadata
+.settings/
+bin/
+local.properties
+run/
+tmp/
+
+# Eclipse Core
+.project
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# =========================
+# Build artifacts
+# =========================
+
+build/
+
+# =========================
+# Log files
+# =========================
+
+*.log
+
+# =========================
+# Backup files
+# =========================
+
+*.blend?

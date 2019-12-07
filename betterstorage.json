@@ -13,11 +13,11 @@
 	},
 	"1.10.2":
 	{
-		"mc1.10.2-1.0.0.0-beta0": "Initial 1.10.2 beta release",
-		"mc1.10.2-1.0.0.0-beta1": "Reinforced chests and lockers\nLocks and keys",
-		"mc1.10.2-1.0.0.0": "First release",
+		"mc1.10.2-1.0.0.2": "Fix crash with breaking chest on server",
 		"mc1.10.2-1.0.0.1": "Fix crash with disabled items",
-		"mc1.10.2-1.0.0.2": "Fix crash with breaking chest on server"
+		"mc1.10.2-1.0.0.0": "First release",
+		"mc1.10.2-1.0.0.0-beta1": "Reinforced chests and lockers\nLocks and keys",
+		"mc1.10.2-1.0.0.0-beta0": "Initial 1.10.2 beta release"
 	},
 	"1.11.2":
 	{
@@ -25,19 +25,19 @@
 	},
 	"1.12.2":
 	{
-		"mc1.12.2-3.0.0.0": "Update for 1.12.2",
+		"mc1.12.2-3.0.0.2": "Fixed crash on checking for crate connections",
 		"mc1.12.2-3.0.0.1": "Fixed inventory interactions",
-		"mc1.12.2-3.0.0.2": "Fixed crash on checking for crate connections"
+		"mc1.12.2-3.0.0.0": "Update for 1.12.2"
 	},
 	"1.14.4":
 	{
-		"1.14.4-4.0.0.0-alpha1": "First alpha release for MC 1.4.3\nNot all features are implemented",
-		"1.14.4-4.0.0.0-alpha2": "Development",
-		"1.14.4-4.0.0.0-alpha3": "Bug fixes",
-		"1.14.4-4.0.0.0-beta1": "Crates now working",
-		"1.14.4-4.0.0.0-beta2": "Locks and keys",
-		"1.14.4-4.0.0.0": "Full release for 1.14.4",
+		"1.14.4-4.0.0.2": "Fixed versions of recipes that were previously causing errors on joining multiplayer servers\nFixed tooltip error when looking at cardboard box item with no inventory",
 		"1.14.4-4.0.0.1": "Fix for server with opening keyings\n[Temporary] Removed some recipes related to errors on joining multiplayer servers",
-		"1.14.4-4.0.0.2": "Fixed versions of recipes that were previously causing errors on joining multiplayer servers\nFixed tooltip error when looking at cardboard box item with no inventory"
+		"1.14.4-4.0.0.0": "Full release for 1.14.4",
+		"1.14.4-4.0.0.0-beta2": "Locks and keys",
+		"1.14.4-4.0.0.0-beta1": "Crates now working",
+		"1.14.4-4.0.0.0-alpha3": "Bug fixes",
+		"1.14.4-4.0.0.0-alpha2": "Development",
+		"1.14.4-4.0.0.0-alpha1": "First alpha release for MC 1.4.3\nNot all features are implemented"
 	}
 }
