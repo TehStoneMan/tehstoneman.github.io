@@ -2,14 +2,20 @@
 	"homepage": "http://minecraft.curseforge.com/projects/greenscreen",
 	"promos":
 	{
+		"1.7.10-latest"    : "1.7.10-1.2",
+		"1.7.10-recomended": "1.7.10-1.2",
 		"1.8.9-latest"     : "mc1.8.9-1.4",
 		"1.8.9-recomended" : "mc1.8.9-1.4",
 		"1.9-latest"       : "mc1.9-1.5",
 		"1.9-recomended"   : "mc1.9-1.5",
-		"1.10.2-latest"    : "mc1.10.2-2.0",
-		"1.10.2-recomended": "mc1.10.2-2.0",
-		"1.13.2-latest"    : "1.13.2-3.0.0.0",
-		"1.13.2-recomended": "1.13.2-3.0.0.0"
+		"1.14.4-latest"    : "1.14.4-2.0.0.0",
+		"1.14.4-recomended": "1.14.4-2.0.0.0"
+	},
+	"1.7.10":
+	{
+		"1.7.10-1.2": "Added Green with Tracking Markers variant\nAdded Bluescreen variant\nAdded Blue with Tracking Markers variant",
+		"1.7.10-1.1": "[Incorrectly labeled as 1.2]\nGreenscreen blocks now render at fullbright without lighting",
+		"1.7.10-1.0": "Initial release"
 	},
 	"1.8.9":
 	{
@@ -17,14 +23,10 @@
 	},
 	"1.9":
 	{
-		"mc1.9-1.5": "Updated to MC 1.9"
+		"mc1.9-1.5": "Updated to MC 1.9\nGreen screen blocks can now be lit from behind"
 	},
-	"1.10.2":
+	"1.14.4":
 	{
-		"mc1.10.2-2.0": "WIP"
-	),
-	"1.13.2":
-	{
-		"1.13.2-3.0.0.0": "Updated for Minecraft 1.13.2"
-	)
-)
+		"1.14.4-2.0.0.0": "Updated to 1.14.4"
+	}
+}
