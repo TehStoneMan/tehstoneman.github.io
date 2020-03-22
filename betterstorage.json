@@ -2,10 +2,10 @@
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/better-storage-too",
 	"promos":
 	{
-		"1.15.2-latest"    : "1.15.2-5.0.0.0",
-		"1.15.2-recomended": "1.15.2-5.0.0.0",
-		"1.14.4-latest"    : "1.14.4-4.1.0.1",
-		"1.14.4-recomended": "1.14.4-4.1.0.1",
+		"1.15.2-latest"    : "1.15.2-5.0.0.1",
+		"1.15.2-recomended": "1.15.2-5.0.0.1",
+		"1.14.4-latest"    : "1.14.4-4.1.0.2",
+		"1.14.4-recomended": "1.14.4-4.1.0.2",
 		"1.12.2-latest"    : "mc1.12.2-3.0.0.1",
 		"1.12.2-recomended": "mc1.12.2-3.0.0.1",
 		"1.11.2-latest"    : "mc1.11.2-2.0.0.0",
@@ -33,6 +33,7 @@
 	},
 	"1.14.4":
 	{
+		"1.14.4-4.1.0.2": "Fixed server calling client world at startup.",		
 		"1.14.4-4.1.0.1": "Fixed background rendering of GUI's.\nFixed color rendering of armor.",
 		"1.14.4-4.1.0.0": "Added glass fluid tanks\nFinalized API",
 		"1.14.4-4.0.0.2": "Fixed versions of recipes that were previously causing errors on joining multiplayer servers\nFixed tooltip error when looking at cardboard box item with no inventory",
@@ -46,6 +47,7 @@
 	},
 	"1.15.2":
 	{
+		"1.15.2-5.0.0.1": "Fixed server calling client world at startup.",		
 		"1.15.2-5.0.0.0": "Updated for Minecraft 1.15"
 	}
 }
