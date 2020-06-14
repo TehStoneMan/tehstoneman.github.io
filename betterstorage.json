@@ -2,8 +2,8 @@
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/better-storage-too",
 	"promos":
 	{
-		"1.15.2-latest"    : "1.15.2-5.0.1.0",
-		"1.15.2-recomended": "1.15.2-5.0.1.0",
+		"1.15.2-latest"    : "1.15.2-5.1.0.0",
+		"1.15.2-recomended": "1.15.2-5.1.0.0",
 		"1.14.4-latest"    : "1.14.4-4.1.0.2",
 		"1.14.4-recomended": "1.14.4-4.1.0.2",
 		"1.12.2-latest"    : "mc1.12.2-3.0.0.1",
@@ -47,8 +47,9 @@
 	},
 	"1.15.2":
 	{
-		"1.15.2-5.0.1.0": "Added fluid milk.",		
-		"1.15.2-5.0.0.1": "Fixed server calling client world at startup.",		
+		"1.15.2-5.1.0.0": "Added hex key - used for configuring storage certain storage blocks.\nAdded configuration GUI\nAdded OBJ models for some blocks.\n Added option to disable OBJ models.\nChanged updated Forge requirement to 31.2.0.",
+		"1.15.2-5.0.1.0": "Added fluid milk.",
+		"1.15.2-5.0.0.1": "Fixed server calling client world at startup.",
 		"1.15.2-5.0.0.0": "Updated for Minecraft 1.15"
 	}
 }
