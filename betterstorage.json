@@ -1,13 +1,13 @@
 {
-	"homepage": "https://www.curseforge.com/minecraft/mc-mods/better-storage-too",
+	"homepage": "http://minecraft.curseforge.com/projects/betterstoragetoo",
 	"promos":
 	{
 		"1.15.2-latest"    : "1.15.2-5.1.0.0",
 		"1.15.2-recomended": "1.15.2-5.1.0.0",
 		"1.14.4-latest"    : "1.14.4-4.1.0.2",
 		"1.14.4-recomended": "1.14.4-4.1.0.2",
-		"1.12.2-latest"    : "mc1.12.2-3.0.0.1",
-		"1.12.2-recomended": "mc1.12.2-3.0.0.1",
+		"1.12.2-latest"    : "mc1.12.2-3.0.0.3",
+		"1.12.2-recomended": "mc1.12.2-3.0.0.3",
 		"1.11.2-latest"    : "mc1.11.2-2.0.0.0",
 		"1.11.2-recomended": "mc1.11.2-2.0.0.0",
 		"1.10.2-latest"    : "mc1.10.2-1.0.0.3",
@@ -27,6 +27,7 @@
 	},
 	"1.12.2":
 	{
+		"1.12.2-3.0.0.3": "Fixed slime buckets appearing on all creative tabs",
 		"mc1.12.2-3.0.0.2": "Fixed crash on checking for crate connections",
 		"mc1.12.2-3.0.0.1": "Fixed inventory interactions",
 		"mc1.12.2-3.0.0.0": "Update for 1.12.2"
