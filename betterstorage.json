@@ -2,6 +2,10 @@
 	"homepage": "http://minecraft.curseforge.com/projects/betterstoragetoo",
 	"promos":
 	{
+		"1.16.5-latest"    : "1.16.5-6.1.0.0",
+		"1.16.5-recomended": "1.16.5-6.1.0.0",
+		"1.16.3-latest"    : "1.16.3-6.0.0.0",
+		"1.16.3-recomended": "1.16.3-6.0.0.0",
 		"1.15.2-latest"    : "1.15.2-5.1.0.0",
 		"1.15.2-recomended": "1.15.2-5.1.0.0",
 		"1.14.4-latest"    : "1.14.4-4.1.0.2",
@@ -52,5 +56,13 @@
 		"1.15.2-5.0.1.0": "Added fluid milk.",
 		"1.15.2-5.0.0.1": "Fixed server calling client world at startup.",
 		"1.15.2-5.0.0.0": "Updated for Minecraft 1.15"
+	},
+	"1.16.3":
+	{
+		"mc1.11.2-2.0.0.0": "Updated to Minecraft 1.16.3"
+	},
+	"1.16.5":
+	{
+		"mc1.11.2-2.0.0.0": "Updated to Minecraft 1.16.5"
 	}
 }
